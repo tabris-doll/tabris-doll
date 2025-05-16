@@ -11,4 +11,4 @@ Fun Facts
 🎮 When I'm not coding, I enjoy simulation games, learning languages and reading!
 📚 Currently reading: The Rings of Saturn (I love it so far!)
 ☕ Fueled by: Green tea and Coffee 
-🎧 Coding to the sounds of: Charli XCX...
+🎧 Coding to the sounds of: Charli XCX 👑
