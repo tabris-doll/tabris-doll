@@ -1,10 +1,10 @@
 ✨ Hello world! I'm Tabris ✨
 About Me
-🎓 Background in: Office Software Development and CNC Programming
+🎓 Background in: Office Software Development
 🌍 Based in: Chicago
 
 My Tech Stack
-💻 Languages: C++, G-Code, Python
+💻 Languages: C++, Python
 🛠️ Tools: Flake8, CMake, OctPrint Plugins, CodeQL, Dependabot
 
 Fun Facts
